@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "06c95a141d46a8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfff2fe2ee87189e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dfa8a60649044c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1244db2142a8e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc9f9413a5ef4cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2828c7a086dcf4fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7d75ad9a0cdc49c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7910beee30d0c658",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef2fe7953af89bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4103aa308c4f8b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2f1245e4df4a6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e665c3bf1ab78e22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b99ced092111ff2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfc2d5a0c86584d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48dfa8a60649044c",
+  "lastOpenFiles": [
+    "README.md",
+    "utitled.md",
+    "Programación distribuida y en paralelo",
+    "Estudio de las organizaciones",
+    "Probabilidad y estadistica",
+    "Administración de base de datos",
+    "Taller de desarrollo 2",
+    "Ecuaciones diferenciales",
+    "Arquitectura de las computadoras"
+  ]
+}
